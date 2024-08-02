@@ -1,11 +1,11 @@
 # NgpImagePicker
 
 <center><span style="color: red">
-This package is used to provide Angular v16 support until the original [ngp-image-picker](https://www.npmjs.com/package/ngp-image-picker) package is updated.
+This package is used to provide Angular v17 support until the original [ngp-image-picker](https://www.npmjs.com/package/ngp-image-picker) package is updated.
 </span></center>
 
 Angular library for the selection, edition and compression of images in png, jpeg and webp formats
-This library was generated with Angular CLI version 16, and support the latest version of angular.
+This library was generated with Angular CLI version 17, and support the latest version of angular.
 Previous versions of this library relied entirely on angular material components.
 Today it is made with html and css without any extra components.
 **Recently new functionality has been added. More image editing capabilities, initial compression indexing is now available for the first time an more**
